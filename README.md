@@ -20,19 +20,19 @@
 
 +	主界面(...略丑)
 
-	![](../images/word_count_01.png)
+	![](./images/word_count_01.png)
 
 +	概览：
 
-	![](../images/word_count_02.png)
+	![](./images/word_count_02.png)
 
 +	结构图：
 
-	![](../images/word_count_03.png)
+	![](./images/word_count_03.png)
 
 +	柱状图：
 
-	![](../images/word_count_04.png)
+	![](./images/word_count_04.png)
 
 
 ### 其他
