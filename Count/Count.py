@@ -150,9 +150,13 @@ def strFormat(string, length):
     re_str=""
     for char in string:  
         if u'\u4e00' <= char <= u'\u9fa5':  # 判断一个字是否为汉字
+            if temp_length==length-1:
+                re_str=" "+re_str
+                temp_length+=2
+                break
             temp_length += 2
         else:
-            temp_length +=1
+            temp_length += 1
         if temp_length>length:
             break
         re_str+=char

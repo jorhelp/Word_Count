@@ -11,7 +11,7 @@
 # Separated by ';'
 
 # Use the absolute path!!!
-path = /home/jorhelp/TestCount
+path = /home/jorhelp/note
 
 # Don't count these folders
 exclude_folder=images;.git;__pycache__
